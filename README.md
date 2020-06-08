@@ -4,7 +4,11 @@
 ### Classification
 |ALGORITHM|PAPER   | CODE   | FRAMEWORK|
 |---|---|---|---|
-|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code| Keras|
+|**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras|
+|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code</a>| Keras|
+|**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras|
+|**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras|
+
 
 
 
