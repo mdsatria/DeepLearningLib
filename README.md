@@ -5,10 +5,11 @@
 | Playlist | Name  | Institution  | Resources |
 |---|---|---|---|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mbyG85GZ0PI/0.jpg)](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) | Machine Learning Course-CS 156 | California Institute of Technology |<a href="http://work.caltech.edu/telecourse.html">Syllabus</a>|
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vT1JzLTH4G4/0.jpg)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Convolutional Neural Networks for Visual Recognition - CS231n | Stanford University |<a href="http://cs231n.stanford.edu/index.html">Syllabus</a>|
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7R52wiUgxZI/0.jpg)](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | Deep Learning Lecture Series | University College London |-|
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J8Eh7RqggsU/0.jpg)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | Artificial Intelligence: Principles and Techniques | Stanford University |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/njKP3FqW3Sk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introduction to Deep Learning-MIT 6.S191 | Massachusetts Institute of Technology |<a href="http://introtodeeplearning.com/">Syllabus</a> <a href="https://github.com/aamini/introtodeeplearning">Github</a>|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vT1JzLTH4G4/0.jpg)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Convolutional Neural Networks for Visual Recognition - CS231n | Stanford University |<a href="http://cs231n.stanford.edu/index.html">Syllabus</a>|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PySo_6S4ZAg/0.jpg)](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) | Deep Learning - CS230 | Stanford University |<a href="http://cs230.stanford.edu/">Syllabus</a>|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J8Eh7RqggsU/0.jpg)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | Artificial Intelligence: Principles and Techniques | Stanford University |-|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7R52wiUgxZI/0.jpg)](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | Deep Learning Lecture Series | University College London |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Deep Learning-Neural Network | *not an academic institution, but the creator is from Khan Academy. easy to understand with stunning visualization* |-|
 
 ---
