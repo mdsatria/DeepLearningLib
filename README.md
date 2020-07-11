@@ -1,8 +1,10 @@
 # Deep Learning Library
 
-## IMAGE
-### Classification
-|ALGORITHM|PAPER   | CODE   | FRAMEWORK|
+
+## RESEARCH PAPER
+----
+### Image Classification
+|Algorithm| Paper  | Code   | Framework|
 |---|---|---|---|
 |**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras|
 |**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras|
@@ -14,16 +16,31 @@
 
 
 
-### Segmentation/Detection
+### Image Segmentation/Detection
 
-|ALGORITHM|PAPER   | CODE   | FRAMEWORK|
+|Algorithm| Paper  | Code   | Framework|
 |---|---|---|---|
 | **Mask R-CNN**  | <a href="https://arxiv.org/abs/1703.06870">Paper</a>   |  <a href="https://github.com/matterport/Mask_RCNN">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a> |TensorFlow PyTorch|
 |**Fast R-CNN**|<a href="https://arxiv.org/abs/1504.08083">Paper</a>|<a href="https://github.com/rbgirshick/fast-rcnn">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a>|Caffe PyTorch|
 | **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|
 
-### Augmentation
+### Image Augmentation
 
-|ALGORITHM|PAPER   | CODE   | FRAMEWORK|
+|Algorithm| Paper  | Code   | Framework|
 |---|---|---|---|
 | **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|
+
+---
+
+
+## MOOC
+
+### Youtube Videos
+| Playlist | Name  | Institution  | Resources |
+|---|---|---|---|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mbyG85GZ0PI/0.jpg)](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) | Machine Learning Course-CS 156 | California Institute of Technology |-|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vT1JzLTH4G4/0.jpg)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Convolutional Neural Networks for Visual Recognition - CS231n | Stanford University |<a href="http://cs231n.stanford.edu/index.html">Syllabus</a>|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7R52wiUgxZI/0.jpg)](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | Deep Learning Lecture Series | University College London |-|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J8Eh7RqggsU/0.jpg)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | Artificiial Intelligence: Principles and Techniques | Stanford University |-|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/njKP3FqW3Sk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introduction to Deep Learning-MIT 6.S191 | Massachusetts Institute of Technology |<a href="http://introtodeeplearning.com/">Syllabus</a> <a href="https://github.com/aamini/introtodeeplearning">Github</a>|
+
