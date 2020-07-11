@@ -12,27 +12,20 @@
 ---
 
 ## RESEARCH PAPER
-### Image Classification
-|Algorithm| Paper  | Code   | Framework|
-|---|---|---|---|
-|**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras-Tensorflow|
-|**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras-Tensorflow|
-|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code</a>| Keras-Tensorflow|
-|**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras-Tensorflow|
-|**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras-Tensorflow|
-|**Siamese Network**|<a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Paper</a>|<a href="https://github.com/fangpin/siamese-pytorch">Code</a> </br> <a href="https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch">Code (Face Similarity)</a>|Pytorch|
-
-### Image Segmentation/Detection
-|Algorithm| Paper  | Code   | Framework|
-|---|---|---|---|
-| **Mask R-CNN**  | <a href="https://arxiv.org/abs/1703.06870">Paper</a>   |  <a href="https://github.com/matterport/Mask_RCNN">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a> |TensorFlow PyTorch|
-|**Fast R-CNN**|<a href="https://arxiv.org/abs/1504.08083">Paper</a>|<a href="https://github.com/rbgirshick/fast-rcnn">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a>|Caffe PyTorch|
-| **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|
-
-### Image Augmentation
-|Algorithm| Paper  | Code   | Framework|
-|---|---|---|---|
-| **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|
+### Computer Vision
+|Algorithm| Paper  | Code   | Framework| Task|
+|---|---|---|---|---|
+|**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras-Tensorflow|Classification|
+|**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras-Tensorflow|Classification|
+|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code</a>| Keras-Tensorflow|Classification|
+|**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras-Tensorflow|Classification|
+|**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras-Tensorflow|Classification|
+|**Siamese Network**|<a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Paper</a>|<a href="https://github.com/fangpin/siamese-pytorch">Code</a> </br> <a href="https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch">Code (Face Similarity)</a>|Pytorch|Classification|
+|**Mobile Net V2**|<a href="https://arxiv.org/pdf/1801.04381.pdf">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification </br> Segmentation </br> Detection|
+| **Mask R-CNN**  | <a href="https://arxiv.org/abs/1703.06870">Paper</a>   |  <a href="https://github.com/matterport/Mask_RCNN">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a> |TensorFlow PyTorch|Segmentation|
+|**Fast R-CNN**|<a href="https://arxiv.org/abs/1504.08083">Paper</a>|<a href="https://github.com/rbgirshick/fast-rcnn">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a>|Caffe PyTorch|Segmentation|
+| **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|Segmentation|
+| **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|Augmentation|
 
 ---
 
