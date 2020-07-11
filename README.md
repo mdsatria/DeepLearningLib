@@ -15,11 +15,12 @@
 ### Image Classification
 |Algorithm| Paper  | Code   | Framework|
 |---|---|---|---|
-|**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras|
-|**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras|
-|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code</a>| Keras|
-|**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras|
-|**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras|
+|**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras-Tensorflow|
+|**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras-Tensorflow|
+|**ResNet50**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py">Code</a>| Keras-Tensorflow|
+|**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras-Tensorflow|
+|**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras-Tensorflow|
+|**Siamese Network**|<a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Paper</a>|<a href="https://github.com/fangpin/siamese-pytorch">Code</a> </br> <a href="https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch">Code (Face Similarity)</a>|Pytorch|
 
 ### Image Segmentation/Detection
 |Algorithm| Paper  | Code   | Framework|
