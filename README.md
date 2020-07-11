@@ -9,6 +9,8 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7R52wiUgxZI/0.jpg)](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | Deep Learning Lecture Series | University College London |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J8Eh7RqggsU/0.jpg)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | Artificial Intelligence: Principles and Techniques | Stanford University |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/njKP3FqW3Sk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introduction to Deep Learning-MIT 6.S191 | Massachusetts Institute of Technology |<a href="http://introtodeeplearning.com/">Syllabus</a> <a href="https://github.com/aamini/introtodeeplearning">Github</a>|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Deep Learning-Neural Network | *not an academic institution, but the creator is from Khan Academy. easy to understand with stunning visualization* |-|
+
 ---
 
 ## RESEARCH PAPER
