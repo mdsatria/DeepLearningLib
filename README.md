@@ -33,7 +33,7 @@
 
 ## RESEARCH PAPER
 ### Computer Vision
-|Algorithm| Paper  | Code   | Framework| Task|
+| Architecture | Paper | Code | Framework | Task |
 |---|---|---|---|---|
 |**InceptionV3**|<a href="http://arxiv.org/abs/1512.00567">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py">Code</a>|Keras-Tensorflow|Classification|
 |**RestNet**|<a href="https://arxiv.org/abs/1512.03385">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py">Code</a>|Keras-Tensorflow|Classification|
@@ -48,6 +48,23 @@
 |**Fast R-CNN**|<a href="https://arxiv.org/abs/1504.08083">Paper</a>|<a href="https://github.com/rbgirshick/fast-rcnn">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a>|Caffe PyTorch|Segmentation|
 | **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|Segmentation|
 | **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|Augmentation|
+
+### Natural Language Processing
+| Architecture | Paper | Code | Framework | Task |
+|---|---|---|---|---|
+| **BERT** (from Google) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> | Transformers |
+| **GPT** (from OpenAI) | <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Paper</a>  | <a href="https://github.com/openai/finetune-transformer-lm">Code</a> | <a href="https://huggingface.co/transformers/model_doc/gpt.html">Hugging Face</a> | NLU |
+| **GPT-2** (from OpenAI) | <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Paper</a>  | <a href="https://github.com/openai/gpt-2">Code</a> | <a href="">Hugging Face</a> | Unsupervised Multitask Learners |
+| **Transformer** (from Google/CMU) | <a href="https://arxiv.org/abs/1706.03762">Paper</a> | <a href="https://github.com/tensorflow/models/tree/master/official/nlp/transformer">Code</a> | <a href="https://github.com/tensorflow/models/tree/master/official/nlp/transformer">Tensorflow</a> | Transformers |
+| **Transformer-XL** (from Google) | <a href="https://arxiv.org/abs/1901.02860">Paper</a> | <a href="">Code</a> | <a href="https://huggingface.co/transformers/model_doc/transformerxl.html">Hugging Face</a> | Transformers |
+| **XLNet** (from Google/CMU) | <a href="https://arxiv.org/abs/1906.08237">Paper</a> | <a href="https://github.com/tensorflow/models/blob/master/official/nlp/xlnet">Code</a> | <a href="https://github.com/tensorflow/models/blob/master/official/nlp/xlnet">TensorFlow</a>, <a href="https://huggingface.co/transformers/model_doc/xlnet.html">Hugging Face</a> | NLU |
+| **XLM** (from Facebook) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> |  |
+| **RoBERTa** (from Facebook) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> | Transformer |
+| **DistilBERT** (from HuggingFace) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">Hugging Face</a> |  |
+| **CTRL** (from SalesForce) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> | Transformers |
+| **CamemBERT** (from Inria/Facebook/Sorbonne) | <a href="https://arxiv.org/abs/1810.04805">Paper</a>  | <a href="">Code</a> | <a href="">TensorFlow</a>, <a href="">Hugging Face</a> |  |
+No finished yet
+
 
 ---
 ## PODCAST
