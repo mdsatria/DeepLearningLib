@@ -42,6 +42,7 @@
 |**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras-Tensorflow|Classification|
 |**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras-Tensorflow|Classification|
 |**Siamese Network**|<a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Paper</a>|<a href="https://github.com/fangpin/siamese-pytorch">Code</a> </br> <a href="https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch">Code (Face Similarity)</a>|Pytorch|Classification|
+|**EfficientNet**|<a href="https://arxiv.org/abs/1905.11946">Paper</a>|<a href="https://github.com/qubvel/efficientnet">Code</a> |Tensorflow|Classification|
 |**Mobile Net V1**|<a href="https://arxiv.org/abs/1704.04861">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Face Attributes, Face Embedding, Object Detection|
 |**Mobile Net V2**|<a href="https://arxiv.org/pdf/1801.04381.pdf">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification, Segmentation, Object Detection|
 |**Mobile Net V3**|<a href="https://arxiv.org/abs/1905.02244">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification, Segmentation, Detection|
@@ -51,7 +52,11 @@
 | **YOLOv2** | <a href="https://arxiv.org/abs/1612.08242"> Paper </a>| <a href="https://pjreddie.com/darknet/yolov2/">Code| CUDA| Object Detection|
 | **YOLOv3** | <a href="https://pjreddie.com/media/files/papers/YOLOv3.pdf"> Paper </a>| <a href="https://github.com/qqwweee/keras-yolo3">Code| Keras, Tensorflow|Object Detection|
 | **YOLOv4** | <a href="https://arxiv.org/pdf/2004.10934v1.pdf"> Paper </a>| <a href="https://github.com/Tianxiaomo/pytorch-YOLOv4">Code| PyTorch| Object Detection|
-| **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|Augmentation|
+| **AugMix** |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|Augmentation|
+| **CutMix**  |  <a href="https://arxiv.org/abs/1905.04899">Paper</a>   |   <a href="https://github.com/clovaai/CutMix-PyTorch">Code</a> |PyTorch|Augmentation|
+| **MixUp** |  <a href="https://arxiv.org/abs/1710.09412">Paper</a>   |   <a href="https://github.com/hongyi-zhang/mixup">Code</a> |PyTorch|Augmentation|
+| **GAN** |  <a href="https://arxiv.org/abs/1406.2661">Paper</a>   |   <a href="https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py">Code</a> |PyTorch|Generative Model|
+| **DCGAN** |  <a href="https://arxiv.org/abs/1511.06434">Paper</a>   |   <a href="https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py">Code</a> |PyTorch|Generative Model|
 
 
 ### Natural Language Processing
