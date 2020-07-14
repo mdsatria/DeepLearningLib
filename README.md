@@ -42,13 +42,17 @@
 |**VGG16**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py">Code</a>|Keras-Tensorflow|Classification|
 |**VGG19**|<a href="https://arxiv.org/abs/1409.1556">Paper</a>|<a href="https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py">Code</a>|Keras-Tensorflow|Classification|
 |**Siamese Network**|<a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Paper</a>|<a href="https://github.com/fangpin/siamese-pytorch">Code</a> </br> <a href="https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch">Code (Face Similarity)</a>|Pytorch|Classification|
-|**Mobile Net V1**|<a href="https://arxiv.org/abs/1704.04861">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Face Attributes </br> Face Embedding </br> Detection|
-|**Mobile Net V2**|<a href="https://arxiv.org/pdf/1801.04381.pdf">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification </br> Segmentation </br> Detection|
-|**Mobile Net V3**|<a href="https://arxiv.org/abs/1905.02244">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification </br> Segmentation </br> Detection|
+|**Mobile Net V1**|<a href="https://arxiv.org/abs/1704.04861">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Face Attributes, Face Embedding, Object Detection|
+|**Mobile Net V2**|<a href="https://arxiv.org/pdf/1801.04381.pdf">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification, Segmentation, Object Detection|
+|**Mobile Net V3**|<a href="https://arxiv.org/abs/1905.02244">Paper</a>|<a href="https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet">Code</a> |Tensorflow|Classification, Segmentation, Detection|
 | **Mask R-CNN**  | <a href="https://arxiv.org/abs/1703.06870">Paper</a>   |  <a href="https://github.com/matterport/Mask_RCNN">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a> |TensorFlow PyTorch|Segmentation|
 |**Fast R-CNN**|<a href="https://arxiv.org/abs/1504.08083">Paper</a>|<a href="https://github.com/rbgirshick/fast-rcnn">Code</a> <a href="https://github.com/facebookresearch/Detectron">Code</a>|Caffe PyTorch|Segmentation|
-| **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|Segmentation|
+| **YOLO** | <a href="https://arxiv.org/abs/1506.02640"> Paper </a>| <a href="https://github.com/pjreddie/darknet/tree/master/cfg">Code| CUDA|Object Detection|
+| **YOLOv2** | <a href="https://arxiv.org/abs/1612.08242"> Paper </a>| <a href="https://pjreddie.com/darknet/yolov2/">Code| CUDA| Object Detection|
+| **YOLOv3** | <a href="https://pjreddie.com/media/files/papers/YOLOv3.pdf"> Paper </a>| <a href="https://github.com/qqwweee/keras-yolo3">Code| Keras, Tensorflow|Object Detection|
+| **YOLOv4** | <a href="https://arxiv.org/pdf/2004.10934v1.pdf"> Paper </a>| <a href="https://github.com/Tianxiaomo/pytorch-YOLOv4">Code| PyTorch| Object Detection|
 | **AugMix**.  |  <a href="https://arxiv.org/abs/1912.02781">Paper</a>   |   <a href="https://github.com/google-research/augmix">Code</a> |TensorFlow|Augmentation|
+
 
 ### Natural Language Processing
 | Architecture | Paper | Code | Framework | Task |
