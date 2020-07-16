@@ -87,7 +87,7 @@
 ## BENCHMARK
 
 <p>
-<a href="https://dawn.cs.stanford.edu/benchmark/index.html"><img src="https://dawn.cs.stanford.edu/benchmark/img/logo.png" caption="asd" height="80"></a>
+<a href="https://dawn.cs.stanford.edu/benchmark/index.html"><img src="https://dawn.cs.stanford.edu/benchmark/img/logo.png" caption="asd" height="80"></a></br>
 Stanford DAWNBench
 </p>
 
