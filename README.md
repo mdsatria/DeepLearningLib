@@ -84,6 +84,15 @@
 |DeepMind: The Podcast|<a href="https://open.spotify.com/show/39fjU5Q5L5UecTCRMeqjwb?si=0kyVpl5XTyyRYe9h4vWNVg"><img src="https://i.scdn.co/image/040f459382f87c4a49df264dbaf8994082de649d" align="left" height="80"></a>|
 
 ---
+## BENCHMARK
+
+<p>
+<a href="https://dawn.cs.stanford.edu/benchmark/index.html"><img src="https://dawn.cs.stanford.edu/benchmark/img/logo.png" caption="asd" height="80"></a>
+Stanford DAWNBench
+</p>
+
+
+---
 ## MISC TOOLS
 ### <a href="http://alexlenail.me/NN-SVG/index.html">ANN Architecture Diagram Creator</a>
 
