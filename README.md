@@ -11,6 +11,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J8Eh7RqggsU/0.jpg)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | Artificial Intelligence: Principles and Techniques-CS221| Stanford University |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7R52wiUgxZI/0.jpg)](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | Deep Learning Lecture Series | University College London |-|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | Deep Learning-Neural Network | *not an academic institution, but the creator is from Khan Academy. easy to understand with stunning visualization* |-|
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8rXD5-xhemo/0.jpg)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |Natural Language Processing with Deep Learning-CS224N | Stanford University| <a href="http://web.stanford.edu/class/cs224n/index.html#schedule">Syllabus</a>|
 
 ---
 ## BOOKS
