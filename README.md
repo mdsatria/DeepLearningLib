@@ -3,7 +3,7 @@
 ## MOOC
 ### Youtube Videos
 | Playlist | Name  | Institution  | Resources |
-|---|:---:|---|---|
+|---|:---|---|---|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mbyG85GZ0PI/0.jpg)](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) | Machine Learning Course-CS 156 | California Institute of Technology |<a href="http://work.caltech.edu/telecourse.html">Syllabus</a>|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/njKP3FqW3Sk/0.jpg)](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introduction to Deep Learning-MIT 6.S191 | Massachusetts Institute of Technology |<a href="http://introtodeeplearning.com/">Syllabus</a> <a href="https://github.com/aamini/introtodeeplearning">Github</a>|
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vT1JzLTH4G4/0.jpg)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) | Convolutional Neural Networks for Visual Recognition - CS231n | Stanford University |<a href="http://cs231n.stanford.edu/index.html">Syllabus</a>|
@@ -18,7 +18,7 @@
 
 ### Theoritical
 |Book|Title|Authors|E-Book|
-|---|:---:|---|---|
+|---|:---|---|---|
 |<a href="https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618"><img src="https://images-na.ssl-images-amazon.com/images/I/61qbj4KwauL._SX378_BO1,204,203,200_.jpg" align="left" width="100"></a>|Deep Learning|Ian Goodfellow,</br> Yoshua Bengio,  </br>Aaron Courville|<a href="https://www.deeplearningbook.org/">Link</a>|
 |<a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/"><img src="https://images-na.ssl-images-amazon.com/images/I/61ECBlvkBCL._SX368_BO1,204,203,200_.jpg" align="left" width="100"></a>|Pattern Recognition and Machine Learning|Christopher M. Bishop|-|
 |<a href="https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" align="left" width="100"></a>|Learning from Data|Yaser S. Abu-Mostafa|-|
@@ -27,7 +27,7 @@
 
 ### Practical
 |Book|Title|Authors|E-Book|Code|
-|---|:---:|---|---|---|
+|---|:---|---|---|---|
 |<a href="https://www.amazon.com/_/dp/1492032646?tag=oreilly20-20"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" align="left" width="200"></a>|Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow|Aurélien Géron |-|<a href="https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow">Github</a>|
 |<a href="https://www.manning.com/books/deep-learning-with-pytorch"><img src="https://images.manning.com/book/3/eb932b2-5c44-4518-97c7-7906b4fc7220/Stevens-DLPy-MEAP-HI.png" align="left" width="200"></a>|Deep Learning with Pytorch|Eli Stevens, Luca Antiga |<a href="https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf">pytorch.org</a>|<a href="https://github.com/deep-learning-with-pytorch/dlwpt-code">Github</a>|
 |<a href="https://www.manning.com/books/deep-learning-with-python"><img src="https://images.manning.com/360/480/resize/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" align="left" width="200"></a>|Deep Learning with Python|François Chollet |<a href="https://livebook.manning.com/book/deep-learning-with-python/about-this-book/">Manning</a>|<a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Github</a>|
