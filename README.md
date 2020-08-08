@@ -30,6 +30,7 @@
 |---|:---:|---|---|---|
 |<a href="https://www.amazon.com/_/dp/1492032646?tag=oreilly20-20"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" align="left" width="200"></a>|Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow|Aurélien Géron |-|<a href="https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow">Github</a>|
 |<a href="https://www.manning.com/books/deep-learning-with-pytorch"><img src="https://images.manning.com/book/3/eb932b2-5c44-4518-97c7-7906b4fc7220/Stevens-DLPy-MEAP-HI.png" align="left" width="200"></a>|Deep Learning with Pytorch|Eli Stevens, Luca Antiga |<a href="https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf">pytorch.org</a>|<a href="https://github.com/deep-learning-with-pytorch/dlwpt-code">Github</a>|
+|<a href="https://www.manning.com/books/deep-learning-with-python"><img src="https://images.manning.com/360/480/resize/book/7/65fca1c-6826-472d-bbea-c1d4a7b3c570/Chollet-DLP-HI.png" align="left" width="200"></a>|Deep Learning with Phyton|François Chollet |<a href="https://livebook.manning.com/book/deep-learning-with-python/about-this-book/">Manning</a>|<a href="https://github.com/fchollet/deep-learning-with-python-notebooks">Github</a>|
 
 ---
 
