@@ -35,7 +35,7 @@
 
 ---
 
-## RESEARCH PAPER
+## RESEARCH PAPERS
 ### Computer Vision
 | Architecture | Paper | Code | Framework | Task |
 |---|---|---|---|---|
@@ -86,16 +86,15 @@
 |Artificial Intelligence-AI Podcast with Lex Fridman|<a href="https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=7guGiK2ITeCJjyP2GwoDYg"><img src="https://i.scdn.co/image/4de47da37c00548223eaabf5d841138a1d33d182" align="left" height="80"></a>|
 |DeepMind: The Podcast|<a href="https://open.spotify.com/show/39fjU5Q5L5UecTCRMeqjwb?si=0kyVpl5XTyyRYe9h4vWNVg"><img src="https://i.scdn.co/image/040f459382f87c4a49df264dbaf8994082de649d" align="left" height="80"></a>|
 
----
-## BENCHMARK
 
-<p>
-<a href="https://dawn.cs.stanford.edu/benchmark/index.html"><img src="https://dawn.cs.stanford.edu/benchmark/img/logo.png" caption="asd" height="80"></a></br>
-Stanford DAWNBench
-</p>
+
 
 
 ---
-## MISC TOOLS
-### <a href="http://alexlenail.me/NN-SVG/index.html">ANN Architecture Diagram Creator</a>
+## MISC
+
+|Title|Description|
+|---|---|
+|<a href="http://alexlenail.me/NN-SVG/index.html">ANN Architecture Diagram Creator</a>|web-based tools to create ANN diagram|
+|<a href="https://dawn.cs.stanford.edu/benchmark/index.html">Stanford DAWNBench</a>|end-to-end Deep Learning benchmark and competition|
 
